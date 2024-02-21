@@ -34,3 +34,5 @@ For instance, they're informed that their response time was adequate, but there 
 areas where they could improve such as communication with command.
 This information is then sent on to the admin using Google's Firebase, where they can actively
 keep a track on the trainees and check on their progress.
+
+Video Demo- https://youtu.be/N0lV7s9ugm4
